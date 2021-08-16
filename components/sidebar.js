@@ -17,11 +17,11 @@ export default function SideBar() {
         
             <div className = "flex flex-col font-nav">
                 <nav className = "flex flex-col items-center mt-6 mx-2">                       
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "#about" className = "flex px-4 py-1 text-gray-200">
                         <svg xmlns = "http://www.w3.org/2000/svg" className = "h-6 w-6" fill = "none" viewBox = "0 0 24 24" stroke = "currentColor">
                             <path stroke-linecap = "round" stroke-linejoin = "round" stroke-width = "2" d = "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
                         </svg>
-                        <a href = "#about" className = "mx-4 font-medium">About</a>
+                        <span className = "mx-4 font-medium">About</span>
                     </a>                        
                     <a className = "flex px-4 py-1 text-gray-200" href = "">
                         <svg xmlns = "http://www.w3.org/2000/svg" className = "h-6 w-6" fill = "none" viewBox = "0 0 24 24" stroke = "currentColor">
@@ -35,33 +35,33 @@ export default function SideBar() {
                         </svg>
                         <span className = "mx-4 font-medium">Blog</span>
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://www.facebook.com/subhrakanti.dasgupta.9" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faFacebookSquare } />     
-                        <a href = "https://www.facebook.com/subhrakanti.dasgupta.9" target = "_blank" className = "mx-4 font-medium">Add</a>                       
+                        <span className = "mx-4 font-medium">Add</span>                       
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://twitter.com/dasgupta002" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faTwitterSquare } />     
-                        <a href = "https://twitter.com/dasgupta002" target = "_blank" className = "mx-4 font-medium">Grow</a>                       
+                        <span className = "mx-4 font-medium">Grow</span>                       
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://www.instagram.com/dasgupta002/" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faInstagramSquare } />     
-                        <a href = "https://www.instagram.com/dasgupta002/" target = "_blank" className = "mx-4 font-medium">Follow</a>                       
+                        <span className = "mx-4 font-medium">Follow</span>                       
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://www.linkedin.com/in/dasgupta002/" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faLinkedin } />     
-                        <a href = "https://www.linkedin.com/in/dasgupta002/" target = "_blank" className = "mx-4 font-medium">Connect</a>                       
+                        <span className = "mx-4 font-medium">Connect</span>                       
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://github.com/dasgupta002" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faGithubSquare } />     
-                        <a href = "https://github.com/dasgupta002" target = "_blank" className = "mx-4 font-medium">Contribute</a>                       
+                        <span className = "mx-4 font-medium">Contribute</span>                       
                     </a>                        
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://calcuttahighways.blogspot.com/" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faBlogger } />     
-                        <a href = "https://calcuttahighways.blogspot.com/" target = "_blank" className = "mx-4 font-medium">Engage</a>                       
+                        <span className = "mx-4 font-medium">Engage</span>                       
                     </a>  
-                    <a className = "flex px-4 py-1 text-gray-200" href = "">
+                    <a href = "https://ashadeofmythoughts.wordpress.com/" target = "_blank" className = "flex px-4 py-1 text-gray-200">
                         <FontAwesomeIcon className = "h-6 w-6" icon = { faWordpress } />     
-                        <a href = "https://ashadeofmythoughts.wordpress.com/" target = "_blank" className = "mx-4 font-medium">Share</a>                       
+                        <span className = "mx-4 font-medium">Share</span>                       
                     </a>  
                     <a className = "flex mt-6 px-4 py-1 text-gray-200">
                         <span className = "mx-2 font-semibold">Built with 💖 and 🍺.</span>

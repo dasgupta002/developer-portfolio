@@ -1,8 +1,8 @@
 export default function About() {
     return (
-        <div className = "px-4 py-6 mx-auto w-full">
+        <div className = "px-4 py-6 mx-auto w-full" id = "about">
          <div className = "p-8 rounded bg-white shadow-xl">
-          <div className = "flex flex-col md:flex-row" id = "about">
+          <div className = "flex flex-col md:flex-row">
             <div className = "mb-6 md:pr-12">
               <h2 className = "text-4xl font-bold tracking-tight text-gray-900">
                 Enthusiastic<br />
