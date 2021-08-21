@@ -13,6 +13,7 @@ export default function Contact() {
                             <label for = "message" className = "leading-7 text-lg text-gray-600">Message</label>
                             <textarea name = "message" className = "w-full bg-white rounded border border-gray-300 h-32 outline-none text-gray-700 py-1 px-3 resize-none leading-6" />
                         </div>
+                        <input type = "hidden" name = "form-name" value = "contact" />
                         <button type = "submit" className = "text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none rounded text-xl">Share Opinion</button>
                     </form>
                 </div>
