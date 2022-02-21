@@ -9,7 +9,7 @@ export default function Skills() {
                     </svg>
                     <h2 className = "mt-4 text-2xl font-title font-bold text-red-500">Web Development</h2>
                     <p className = "mt-2 font-body text-lg text-justify text-gray-600">
-                        Full stack perseverance with a depth of knoledge in MERN development, 
+                        Full stack perseverance with a depth of knowledge in MERN development, 
                         with dedicated backend engineering with PHP, a tint of UX design 
                         mainly with CSS frameworks just as Tailwind, Material UI or Bootstrap
                         to name a few and also authentication schema with providers such as 

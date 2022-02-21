@@ -64,7 +64,7 @@ export default function Timeline() {
           <div className = "flex-grow pl-4">
             <h2 className = "font-title text-xl font-bold text-yellow-400 mb-1">Internships</h2>
             <p className = "leading-relaxed font-body text-lg text-justify">
-              Currently working as an backend engineer for node and PHP development at Tech Exordium as intern.
+              Previous working experience as an backend engineer for node and PHP development at Tech Exordium and Tutor Here as intern.
             </p>
           </div>
         </div>

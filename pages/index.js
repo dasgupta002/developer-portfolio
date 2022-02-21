@@ -4,6 +4,10 @@ import Resume from '../components/resume'
 import Skills from '../components/skills'
 import Info from '../components/info'
 import Timeline from '../components/timeline'
+import HTMLProjects from '../components/html'
+import JSProjects from '../components/javascript'
+import ReactProjects from '../components/react'
+import TailwindProjects from '../components/tails'
 import Contact from '../components/contact'
 import Copyright from '../components/copyright'
 
@@ -18,6 +22,10 @@ export default function Home() {
           <Resume />
           <Info />
           <Timeline />
+          <HTMLProjects />
+          <JSProjects />
+          <ReactProjects/>
+          <TailwindProjects/>
           <Contact />
           <Copyright />
         </div>
