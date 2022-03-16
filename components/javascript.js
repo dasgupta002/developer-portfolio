@@ -9,7 +9,7 @@ export default function JSProjects() {
                 <span class = "inline-block ml-2 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">Vanilla JS</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/calculator.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple numerical calculator styled using pure CSS and made functional by vanilla JavaScript.
                         <div className = "flex self-end">
                             <a href = "https://calculator-dg.vercel.app" target = "_blank">
@@ -28,7 +28,7 @@ export default function JSProjects() {
                 <span class = "inline-block ml-2 mt-6 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">Vanilla JS</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/password.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple random password generator styled using pure CSS and made functional by vanilla JavaScript.
                         <div className = "flex self-end">
                             <a href = "https://password-dg.vercel.app" target = "_blank">

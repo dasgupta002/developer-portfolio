@@ -7,7 +7,11 @@ import Timeline from '../components/timeline'
 import HTMLProjects from '../components/html'
 import JSProjects from '../components/javascript'
 import ReactProjects from '../components/react'
+import NextProjects from '../components/next'
+import NodeProjects from '../components/node'
 import TailwindProjects from '../components/tails'
+import FlutterProjects from '../components/flutter'
+import ReactNativeProjects from '../components/native'
 import Contact from '../components/contact'
 import Copyright from '../components/copyright'
 
@@ -25,7 +29,10 @@ export default function Home() {
           <HTMLProjects />
           <JSProjects />
           <ReactProjects/>
+          <NodeProjects />
           <TailwindProjects/>
+          <FlutterProjects />
+          <ReactNativeProjects />
           <Contact />
           <Copyright />
         </div>

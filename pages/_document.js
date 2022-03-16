@@ -15,6 +15,7 @@ class MyDocument extends Document {
             <link href = "https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel = "stylesheet" />
             <link href = "https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel = "stylesheet" />
             <link href = "https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel = "stylesheet" />
+            <title>dg | Dev Portfolio</title>
         </Head>
         <body>
           <Main />

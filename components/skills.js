@@ -10,10 +10,10 @@ export default function Skills() {
                     <h2 className = "mt-4 text-2xl font-title font-bold text-red-500">Web Development</h2>
                     <p className = "mt-2 font-body text-lg text-justify text-gray-600">
                         Full stack perseverance with a depth of knowledge in MERN development, 
-                        with dedicated backend engineering with PHP, a tint of UX design 
-                        mainly with CSS frameworks just as Tailwind, Material UI or Bootstrap
-                        to name a few and also authentication schema with providers such as 
-                        Firebase.
+                        but personally in love with Node JS, a tint of UX design mainly with 
+                        CSS frameworks just as Tailwind, Material UI or Bootstrap, but always 
+                        Tailwind there for my rescue! Someone also quoted me to be a gyan guru
+                        on Firebase.
                     </p>
                 </div>
                 <div>
@@ -23,20 +23,18 @@ export default function Skills() {
                     <h2 className = "mt-4 text-2xl font-title font-bold text-red-500">App Development</h2>
                     <p className = "mt-2 font-body text-lg text-justify text-gray-600">
                         A strong player for native android development with popular frameworks
-                        such as Flutter and React Native. Adept in designing as well publication 
-                        on app store. A little bit of insights as well for authentication providers
-                        such as Firebase for android.
+                        such as Flutter and React Native. 
                     </p>
                 </div>
                 <div>
                     <svg xmlns = "http://www.w3.org/2000/svg" class = "h-12 w-12" fill = "none" viewBox = "0 0 24 24" stroke = "currentColor">
                         <path stroke-linecap = "round" stroke-linejoin = "round" stroke-width = "2" d = "M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                     </svg>
-                    <h2 className = "mt-4 text-2xl font-title font-bold text-red-500">Random</h2>
+                    <h2 className = "mt-4 text-2xl font-title font-bold text-red-500">Add-on's</h2>
                     <p className = "mt-2 font-body text-lg text-justify text-gray-600">
-                        Not a stiff competetive coder, nonetheless well versed in handul of
-                        languages such as C++ as well as Python. Learning round the run time
-                        errors still, hoping to find a score for me yet to haul.
+                        Walk along knowledge in handul of languages such as C++ and Python. 
+                        Also love to create content for social media, designing using Adobe 
+                        XD or Figma and lastly a photographer.
                     </p>
                 </div>
             </div>

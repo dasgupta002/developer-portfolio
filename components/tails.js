@@ -9,7 +9,7 @@ export default function TailwindProjects() {
                 <span class = "inline-block ml-2 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">TAILWIND</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/gym.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple landing page for a website of a gym styled using basic HTML and Tailwind CSS.
                         <div className = "flex self-end">
                             <a href = "https://gym-dg.vercel.app" target = "_blank">
@@ -28,7 +28,7 @@ export default function TailwindProjects() {
                 <span class = "inline-block ml-2 mt-6 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">TAILWIND</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/extension.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple landing page for a website of a chromium extension styled using React framework and Tailwind CSS.
                         <div className = "flex self-end">
                             <a href = "https://extension-dg.vercel.app" target = "_blank">
@@ -47,7 +47,7 @@ export default function TailwindProjects() {
                 <span class = "inline-block ml-2 mt-6 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">TAILWIND</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/facebook.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple UI clone of Facebook's user home page styled using React framework and Tailwind CSS.
                         <div className = "flex self-end">
                             <a href = "https://facebook-dg.vercel.app" target = "_blank">
@@ -66,7 +66,7 @@ export default function TailwindProjects() {
                 <span class = "inline-block ml-2 mt-6 py-2 px-4 rounded bg-indigo-100 text-indigo-500 text-xs font-medium">TAILWIND</span>
                 <div className = "px-2 py-2 font-body font-bold text-lg mx-auto flex flex-col lg:flex-row">
                     <img src = "/intercom.png" className = "bg-gray-200 rounded-lg mb-4 lg:mr-2 lg:mb-0 p-4 w-full lg:w-1/2 shadow-lg" />
-                    <div className = "text-yellow-400 p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col w-full lg:w-1/2">
+                    <div className = "text-yellow-400 text-justify p-4 mb-4 lg:mb-0 lg:mr-2 flex flex-col flex-grow">
                         A simple UI clone of Intercom's inbox page styled using Next framework and Tailwind CSS.
                         <div className = "flex self-end">
                             <a href = "https://intercom-dg.vercel.app" target = "_blank">
