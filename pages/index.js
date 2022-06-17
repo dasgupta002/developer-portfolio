@@ -1,42 +1,11 @@
 import Sidebar from '../components/sidebar'
-import About from '../components/about'
-import Resume from '../components/resume'
-import Skills from '../components/skills'
-import Info from '../components/info'
-import Timeline from '../components/timeline'
-import HTMLProjects from '../components/html'
-import JSProjects from '../components/javascript'
-import ReactProjects from '../components/react'
-import NextProjects from '../components/next'
-import NodeProjects from '../components/node'
-import TailwindProjects from '../components/tails'
-import FlutterProjects from '../components/flutter'
-import ReactNativeProjects from '../components/native'
-import Contact from '../components/contact'
-import Copyright from '../components/copyright'
+import Well from '../components/well'
 
 export default function Home() {
   return (
-    <div className = "bg-purple-200 flex flex-col md:h-screen md:flex-row">
+    <div className = "bg-[#151515] flex flex-col lg:flex-row lg:h-screen font-grotesk">
       <Sidebar />
-      <div className = "flex-1 flex overflow-hidden">
-        <div className = "flex-1 overflow-y-auto">
-          <About />
-          <Skills />
-          <Resume />
-          <Info />
-          <Timeline />
-          <HTMLProjects />
-          <JSProjects />
-          <ReactProjects/>
-          <NodeProjects />
-          <TailwindProjects/>
-          <FlutterProjects />
-          <ReactNativeProjects />
-          <Contact />
-          <Copyright />
-        </div>
-      </div>  
+      <Well />
     </div>
   )
 }

@@ -10,12 +10,11 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-            <link rel = "preconnect" href = "https://fonts.googleapis.com" />
-            <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin />
-            <link href = "https://fonts.googleapis.com/css2?family=Kalam&display=swap" rel = "stylesheet" />
-            <link href = "https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel = "stylesheet" />
-            <link href = "https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel = "stylesheet" />
-            <title>dg | Dev Portfolio</title>
+          <link rel = "icon" type = "image/x-icon" href = "/favicon.png" />
+          <link rel = "preconnect" href = "https://fonts.googleapis.com" />
+          <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin />
+          <link href = "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel = "stylesheet" />
+          <title>dg | Dev Portfolio</title>
         </Head>
         <body>
           <Main />

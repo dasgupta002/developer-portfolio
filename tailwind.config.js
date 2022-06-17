@@ -5,9 +5,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        title: ["Shadows Into Light", "cursive"],
-        nav: ["Kalam", "cursive"],
-        body: ["Rancho", "cursive"]
+        grotesk: ['Space Grotesk']
       }
     },
   },
