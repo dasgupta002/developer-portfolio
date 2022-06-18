@@ -12,7 +12,7 @@ class MyDocument extends Document {
         <Head>
           <link rel = "icon" type = "image/x-icon" href = "/favicon.png" />
           <link rel = "preconnect" href = "https://fonts.googleapis.com" />
-          <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin />
+          <link rel = "preconnect" href = "https://fonts.gstatic.com" crossOrigin />
           <link href = "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap" rel = "stylesheet" />
           <title>dg | Dev Portfolio</title>
         </Head>

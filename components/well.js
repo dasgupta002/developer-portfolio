@@ -1,7 +1,10 @@
 import Tile from './tile'
 import Block from './block'
+import Card from './card'
+import Contact from './contact'
 import { projects } from '../data/projects'
 import { experiences } from '../data/experiences.js'
+import { blogs } from '../data/blogs.js'
 
 export default function Well() {
     return (
@@ -12,11 +15,19 @@ export default function Well() {
                 }
             </div>
 
-            <div className = "flex flex-col gap-4 lg:grid grid-cols-2 lg:gap-2 mb-12 lg:mb-4" id = "experience">
+            <div className = "flex flex-col gap-4 lg:grid grid-cols-2 lg:gap-2 mb-4" id = "experience">
                 {
                     experiences.map((experience) => <Block key = { experience.id } experience = { experience } />)
                 }
             </div>
+            
+            <div id = "blogs">
+                {
+                    blogs.map((blog) => <Card key = { blog.id } blog = { blog } />)
+                }
+            </div>
+
+            <Contact />
         </div>
     )
 }
