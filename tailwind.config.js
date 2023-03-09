@@ -1,16 +1,9 @@
 module.exports = {
-  mode: 'jit',
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
-  darkMode: false,
+  content: [
+    './src/**/*.{js,jsx}'
+  ],
   theme: {
-    extend: {
-      fontFamily: {
-        grotesk: ['Space Grotesk']
-      }
-    },
+    extend: {}
   },
-  variants: {
-    extend: {},
-  },
-  plugins: [],
+  plugins: []
 }

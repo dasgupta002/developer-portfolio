@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "stack": "React Bootstrap",
+        "title": "YouTube Clone",
+        "gist": "Plug and play along with customized search.",
+        "livelink": "https://youtube-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-react-advanced/tree/main/Youtube%20Web%20App"
+    },
+    {
+        "id": "2",
+        "stack": "React CodeMirror",
+        "title": "CodePen Clone",
+        "gist": "Full HTML, CSS and JS support.",
+        "livelink": "https://codepen-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-dev-react/tree/main/Codepen%20Web%20App"
+    },
+    {
+        "id": "3",
+        "stack": "React Animations",
+        "title": "Wordle",
+        "gist": "Time to guess the word.",
+        "livelink": "https://wordle-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-react-advanced/tree/main/Wordle%20Puzzle%20Web%20App"
+    },
+    {
+        "id": "4",
+        "stack": "React Tailwind",
+        "title": "Facebook Clone",
+        "gist": "Home with menus and avatars.",
+        "livelink": "https://facebook-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-dev-tailwind/tree/main/Facebook%20Home%20UI%20Clone"
+    },
+    {
+        "id": "5",
+        "stack": "React Animations",
+        "title": "Mind Games",
+        "gist": "Match and edge opponents.",
+        "livelink": "https://memory-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-dev-react/tree/main/Memory%20Game%20Web%20App"
+    },
+    {
+        "id": "6",
+        "stack": "React Tailwind",
+        "title": "Bookmark Manager",
+        "gist": "Responsive with drawers and illustrations.",
+        "livelink": "https://extension-dg.vercel.app",
+        "gitlink": "https://github.com/dasgupta002/web-dev-tailwind/tree/main/Chromium%20Extension%20Landing%20Page"
+    },
+    {
+        "id": "7",
+        "stack": "Express Stripe",
+        "title": "Shopper",
+        "gist": "Browse, shop and binge.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/udemy-node-ecom"
+    },
+    {
+        "id": "8",
+        "stack": "Firebase CSS",
+        "title": "Covidate",
+        "gist": "Scrutiny oxygen vendors near you.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/web-covidate"
+    },
+    {
+        "id": "9",
+        "stack": "Reeact Hardhat",
+        "title": "Duocol",
+        "gist": "Swap your cryptos for fun.",
+        "livelink": "https://duocol.io",
+        "gitlink": ""
+    }
+]
