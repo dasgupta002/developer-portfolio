@@ -8,8 +8,8 @@ export default function Card({ props: { stack, title, gist, gitlink, livelink } 
             <div  className = 'flex justify-between text-xl mb-6'>
                 <FcFolder />
                 <div className = 'flex gap-4'>
-                    { gitlink !== '' && <a href = { gitlink }><FaGithubAlt /></a> }
-                    { livelink !== '' && <a href = { livelink }><RxExternalLink /></a> }
+                    { gitlink !== '' && <a href = { gitlink } target = '_blank'><FaGithubAlt /></a> }
+                    { livelink !== '' && <a href = { livelink } target = '_blank'><RxExternalLink /></a> }
                 </div>
             </div>
             <h2 className = 'text-[1.4rem] mb-12'>{ title }</h2>
