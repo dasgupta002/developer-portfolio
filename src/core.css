@@ -20,3 +20,6 @@
   scrollbar-width: none;  
 }
 
+.active {
+  @apply border border-black;
+}

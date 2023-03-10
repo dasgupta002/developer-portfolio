@@ -21,7 +21,7 @@ export default function Hero() {
                 I did loads of side projects, even published a <a href = '/' className = 'font-bold text-[#f83735]'>research 
                 paper</a>. Most of my personal code is on <a href = 'https://github.com/dasgupta002' target = '_blank' className = 'font-bold text-[#f83735]'>
                 GitHub</a>. I also love literature and <a href = 'https://instagram.com/lensseanix' target = '_blank' className = 'font-bold text-[#f83735]'>
-                photography</a>as a side hustle. Even did a exhibition and a pulication! 
+                photography</a> as a side hustle. Even did a exhibition and a pulication! 
                 <br />
                 I am available for freelance work or as a full time engineer in web esospace. In order to get in touch 
                 with me, have a knock at my mailbox, <a href = 'mailto:subhrakanti.dasgupta@gmail.com' className = 'font-bold text-[#f83735]'>
