@@ -65,10 +65,18 @@
     },
     {
         "id": "9",
-        "stack": "Reeact Hardhat",
+        "stack": "React Hardhat",
         "title": "Duocol",
         "gist": "Swap your cryptos for fun.",
         "livelink": "https://duocol.io",
         "gitlink": ""
+    },
+        {
+        "id": "10",
+        "stack": "Node Context API",
+        "title": "react-context",
+        "gist": "NPM package to do away with context boilerplate.",
+        "livelink": "https://www.npmjs.com/package/@devmoron/react-context",
+        "gitlink": "https://github.com/dasgupta002/react-context"
     }
 ]
