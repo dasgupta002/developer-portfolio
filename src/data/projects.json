@@ -57,6 +57,22 @@
     },
     {
         "id": "8",
+        "stack": "Next Tailwind",
+        "title": "PokeDEX",
+        "gist": "Fun with your favourite pokemon.",
+        "livelink": "https://pokedex-dg.vercel.app/",
+        "gitlink": "https://github.com/dasgupta002/web-dev-next/tree/main/Next%20PokeDEX%20Web%20App"
+    },
+    {
+        "id": "9",
+        "stack": "React Native Typescript",
+        "title": "Spotify Clone",
+        "gist": "Vibe with pop, rock and more music.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/app-dev-react-native/tree/main/Spotify%20Clone%20Native%20App"
+    },
+    {
+        "id": "10",
         "stack": "Firebase CSS",
         "title": "Covidate",
         "gist": "Scrutiny oxygen vendors near you.",
@@ -64,7 +80,7 @@
         "gitlink": "https://github.com/dasgupta002/web-covidate"
     },
     {
-        "id": "9",
+        "id": "11",
         "stack": "React Hardhat",
         "title": "Duocol",
         "gist": "Swap your cryptos for fun.",
@@ -72,19 +88,11 @@
         "gitlink": ""
     },
     {
-        "id": "10",
+        "id": "12",
         "stack": "Node Context API",
         "title": "react-context",
         "gist": "NPM package to do away with context boilerplate.",
         "livelink": "https://www.npmjs.com/package/@devmoron/react-context",
         "gitlink": "https://github.com/dasgupta002/react-context"
-    },
-    {
-        "id": "11",
-        "stack": "Next Tailwind",
-        "title": "PokeDEX",
-        "gist": "Fun with your favourite pokemon.",
-        "livelink": "https://pokedex-dg.vercel.app/",
-        "gitlink": "https://github.com/dasgupta002/web-dev-next/tree/main/Next%20PokeDEX%20Web%20App"
     }
 ]
