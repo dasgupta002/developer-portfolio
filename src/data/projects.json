@@ -77,10 +77,18 @@
         "title": "Covidate",
         "gist": "Scrutiny oxygen vendors near you.",
         "livelink": "",
-        "gitlink": "https://github.com/dasgupta002/web-covidate"
+        "gitlink": "https://github.com/dasgupta002/web-covidate/tree/main/Covidate"
     },
     {
         "id": "11",
+        "stack": "Javascript Tailwind",
+        "title": "Urlify",
+        "gist": "Quash all urls in one basket.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/learn-javascript-for-free-notes/tree/main/Urlify%20Chrome%20Extension"
+    },
+    {
+        "id": "12",
         "stack": "React Hardhat",
         "title": "Duocol",
         "gist": "Swap your cryptos for fun.",
@@ -88,7 +96,7 @@
         "gitlink": ""
     },
     {
-        "id": "12",
+        "id": "13",
         "stack": "Node Context API",
         "title": "react-context",
         "gist": "NPM package to do away with context boilerplate.",
