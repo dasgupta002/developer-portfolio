@@ -81,6 +81,14 @@
     },
     {
         "id": "11",
+        "stack": "React Native Expo",
+        "title": "Cryptonomics",
+        "gist": "Take home your cheered NFTs.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/web-covidate/tree/main/Covidate"
+    },
+    {
+        "id": "12",
         "stack": "Chrome API Tailwind",
         "title": "Urlify",
         "gist": "Quash all urls in one basket.",
@@ -88,7 +96,7 @@
         "gitlink": "https://github.com/dasgupta002/learn-javascript-for-free-notes/tree/main/Urlify%20Chrome%20Extension"
     },
     {
-        "id": "12",
+        "id": "13",
         "stack": "React Hardhat",
         "title": "Duocol",
         "gist": "Swap your cryptos for fun.",
@@ -96,7 +104,7 @@
         "gitlink": ""
     },
     {
-        "id": "13",
+        "id": "14",
         "stack": "Node Context API",
         "title": "react-context",
         "gist": "NPM package to do away with context boilerplate.",
