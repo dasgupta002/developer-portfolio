@@ -66,8 +66,8 @@
     {
         "id": "9",
         "stack": "React Native Context API",
-        "title": "Currencyhq Currency Converter",
-        "gist": "Swap cash at rates that blow off.",
+        "title": "Currencyhq",
+        "gist": "Swap currency at rates that blow off.",
         "livelink": "",
         "gitlink": "https://github.com/dasgupta002/app-dev-react-native/tree/main/Currencyhq%20Currency%20Converter%20Native%20App"
     },
