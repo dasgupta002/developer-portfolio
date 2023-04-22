@@ -65,6 +65,14 @@
     },
     {
         "id": "9",
+        "stack": "React Native Context API",
+        "title": "Currencyhq Currency Converter",
+        "gist": "Swap cash at rates that blow off.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/app-dev-react-native/tree/main/Currencyhq%20Currency%20Converter%20Native%20App"
+    },
+    {
+        "id": "10",
         "stack": "React Native Typescript",
         "title": "Spotify Clone",
         "gist": "Vibe with pop, rock and more music.",
@@ -72,7 +80,7 @@
         "gitlink": "https://github.com/dasgupta002/app-dev-react-native/tree/main/Spotify%20Clone%20Native%20App"
     },
     {
-        "id": "10",
+        "id": "11",
         "stack": "Firebase CSS",
         "title": "Covidate",
         "gist": "Scrutiny oxygen vendors near you.",
@@ -80,7 +88,7 @@
         "gitlink": "https://github.com/dasgupta002/web-covidate/tree/main/Covidate"
     },
     {
-        "id": "11",
+        "id": "12",
         "stack": "React Native Expo",
         "title": "Cryptonomics",
         "gist": "Take home your cheered NFTs.",
@@ -88,7 +96,7 @@
         "gitlink": "https://github.com/dasgupta002/web-covidate/tree/main/Covidate"
     },
     {
-        "id": "12",
+        "id": "13",
         "stack": "Chrome API Tailwind",
         "title": "Urlify",
         "gist": "Quash all urls in one basket.",
@@ -96,15 +104,15 @@
         "gitlink": "https://github.com/dasgupta002/learn-javascript-for-free-notes/tree/main/Urlify%20Chrome%20Extension"
     },
     {
-        "id": "13",
+        "id": "14",
         "stack": "React Hardhat",
-        "title": "Duocol",
-        "gist": "Swap your cryptos for fun.",
-        "livelink": "https://duocol.io",
+        "title": "Mintic",
+        "gist": "Send cryptos to anyone for fun.",
+        "livelink": "https://mintic.vercel.app",
         "gitlink": ""
     },
     {
-        "id": "14",
+        "id": "15",
         "stack": "Node Context API",
         "title": "react-context",
         "gist": "NPM package to do away with context boilerplate.",
