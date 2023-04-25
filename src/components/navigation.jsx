@@ -11,7 +11,7 @@ export default function Navbar() {
             <NavLink to = '/projects' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>projects</NavLink>
             <NavLink to = '/posts' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>posts</NavLink>
             <NavLink to = 'https://www.linkedin.com/in/dasgupta002/' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>talks</NavLink>
-            <NavLink to = './assets/resume.pdf' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>resume</NavLink>
+            <NavLink to = '/assets/resume.pdf' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>resume</NavLink>
             <NavLink to = 'https://calcuttahighways.netlify.app/' className = 'hover:bg-black hover:text-white rounded px-4 py-2'>blog</NavLink>
         </nav>
     )
