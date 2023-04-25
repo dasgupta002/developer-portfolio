@@ -19,8 +19,8 @@ export default function Hero() {
                 I'm just on the cusp of my undergrad degree, where I studied computer science. I had a passion for all 
                 sorts of creative interactions with web components and web standard with the guts of exploring ethereum. 
                 I did loads of side projects, even published a <a href = '/' className = 'font-bold text-[#f83735]'>research 
-                paper</a>. Most of my personal code is on <a href = 'https://github.com/dasgupta002' target = '_blank' className = 'font-bold text-[#f83735]'>
-                GitHub</a>. I also love literature and <a href = 'https://instagram.com/lensseanix' target = '_blank' className = 'font-bold text-[#f83735]'>
+                paper</a>. Most of my personal code is on <a href = 'https://github.com/dasgupta002' className = 'font-bold text-[#f83735]'>
+                GitHub</a>. I also love literature and <a href = 'https://instagram.com/lensseanix' className = 'font-bold text-[#f83735]'>
                 photography</a> as a side hustle. Even did a exhibition and a pulication! 
                 <br />
                 I am available for freelance work or as a full time engineer in web esospace. In order to get in touch 
