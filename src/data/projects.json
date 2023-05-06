@@ -121,6 +121,14 @@
     },
     {
         "id": "16",
+        "stack": "React Chakra UI",
+        "title": "What's App Web Clone",
+        "gist": "Free scroll and minimalistic.",
+        "livelink": "https://whatsapp-web-eta.vercel.app/",
+        "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Whatsapp%20Web%20UI%20Clone"
+    },
+    {
+        "id": "17",
         "stack": "Vanilla Javascript SCSS",
         "title": "Pongoryx",
         "gist": "Ping pong to out number the leggie.",
