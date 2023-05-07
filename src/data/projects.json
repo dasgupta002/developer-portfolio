@@ -137,18 +137,11 @@
     },
     
     {
-        "id": "16",
+        "id": "18",
         "stack": "Nextt Chakra UI",
         "title": "CLI Landing Page",
         "gist": "Gradients and optimized.",
         "livelink": "https://pluriparous.vercel.app/",
-        "gitlink": "
-    {
-        "id": "16",
-        "stack": "React Chakra UI",
-        "title": "What's App Web Clone",
-        "gist": "Free scroll and minimalistic.",
-        "livelink": "https://whatsapp-web-eta.vercel.app/",
-        "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Whatsapp%20Web%20UI%20Clone"
+        "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Pluriparous%20CLI%20Landing%20Page"
     }
 ]
