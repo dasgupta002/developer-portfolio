@@ -142,18 +142,25 @@
         "gist": "Gradients and optimized.",
         "livelink": "https://pluriparous.vercel.app/",
         "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Pluriparous%20CLI%20Landing%20Page"
-    },
+    },    
     {
         "id": "19",
+        "stack": "Python Telegram",
+        "title": "MirHalo Bot",
+        "gist": "Jokes apart.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/python-tools/tree/main/TeleBot"
+    }
+    {
+        "id": "20",
         "stack": "HTML Sockets",
         "title": "Collaborative Whiteboard",
         "gist": "Spread brightness together.",
         "livelink": "",
         "gitlink": "https://github.com/dasgupta002/web-dev-node/tree/main/Collaborative%20Paint%20Web%20App"
     },
-    
     {
-        "id": "20",
+        "id": "21",
         "stack": "Python Scripting",
         "title": "Keylogger",
         "gist": "Sniff on keys.",
