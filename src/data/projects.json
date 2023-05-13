@@ -150,5 +150,14 @@
         "gist": "Spread brightness together.",
         "livelink": "",
         "gitlink": "https://github.com/dasgupta002/web-dev-node/tree/main/Collaborative%20Paint%20Web%20App"
+    },
+    
+    {
+        "id": "20",
+        "stack": "Python Scripting",
+        "title": "Keylogger",
+        "gist": "Sniff on keys.",
+        "livelink": "",
+        "gitlink": "https://github.com/dasgupta002/python-tools/tree/main/Keylogger"
     }
 ]
