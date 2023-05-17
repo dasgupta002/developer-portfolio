@@ -105,14 +105,6 @@
     },
     {
         "id": "14",
-        "stack": "React Hardhat",
-        "title": "Mintic",
-        "gist": "Send cryptos to anyone for fun.",
-        "livelink": "https://mintic-murex.vercel.app",
-        "gitlink": ""
-    },
-    {
-        "id": "15",
         "stack": "Node Context API",
         "title": "react-context",
         "gist": "NPM package to do away with context boilerplate.",
@@ -120,7 +112,7 @@
         "gitlink": "https://github.com/dasgupta002/react-context"
     },
     {
-        "id": "16",
+        "id": "15",
         "stack": "React Chakra UI",
         "title": "What's App Web Clone",
         "gist": "Free scroll and minimalistic.",
@@ -128,7 +120,7 @@
         "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Whatsapp%20Web%20UI%20Clone"
     },
     {
-        "id": "17",
+        "id": "16",
         "stack": "Vanilla Javascript SCSS",
         "title": "Pongoryx",
         "gist": "Ping pong to out number the leggie.",
@@ -136,7 +128,7 @@
         "gitlink": "https://github.com/dasgupta002/game-dev-javascript/tree/main/Pongoryx%20Game%20Page"
     },
     {
-        "id": "18",
+        "id": "17",
         "stack": "Next Chakra UI",
         "title": "CLI Landing Page",
         "gist": "Gradients and optimized.",
@@ -144,7 +136,7 @@
         "gitlink": "https://github.com/dasgupta002/web-dev-chakra-ui/tree/main/Pluriparous%20CLI%20Landing%20Page"
     },    
     {
-        "id": "19",
+        "id": "18",
         "stack": "Python Telegram",
         "title": "MirHalo Bot",
         "gist": "Jokes apart.",
@@ -152,7 +144,7 @@
         "gitlink": "https://github.com/dasgupta002/python-tools/tree/main/TeleBot"
     },
     {
-        "id": "20",
+        "id": "19",
         "stack": "HTML Sockets",
         "title": "Collaborative Whiteboard",
         "gist": "Spread brightness together.",
@@ -160,7 +152,7 @@
         "gitlink": "https://github.com/dasgupta002/web-dev-node/tree/main/Collaborative%20Paint%20Web%20App"
     },
     {
-        "id": "21",
+        "id": "20",
         "stack": "Python Scripting",
         "title": "Keylogger",
         "gist": "Sniff on keys.",
