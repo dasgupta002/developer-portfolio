@@ -1,21 +1,23 @@
 import { useEffect, useState } from 'react'
-import axios from 'axios'
+import { createBucketClient } from '@cosmicjs/sdk'
 
 export const useAPI = (slug) => {
    const [data, setData] = useState([])
-   const URL = !slug ? process.env.REACT_APP_BLOG_URL + '&props=title,slug,created_at' : process.env.REACT_APP_BLOG_URL
+   const cosmic = createBucketClient({
+    bucketSlug: 'dev-blog-prod',
+    readKey: REACT_APP_READ_KEY
+   })
 
    useEffect(() => {
-      axios.get(URL)
-           .then((response) => {
-               const { objects } = response.data
-               !slug ? setData(objects) : setData(objects.filter((object) => object.slug === slug))
-           })
-           .catch((error) => {
-               setData([])
-               throw error
-           }) 
-   }, [URL, slug])
+        !slug ? cosmic.objects
+                      .find({ type: 'posts' })
+                      .props(['title', 'slug', 'created_at'])
+                      .then((posts) => setData(posts.objects))
+              : cosmic.objects
+                      .findOne({ type: 'posts', slug: slug })
+                      .then((post) => setData([post.object]))
+                      .catch((error) => window.location.href = '/posts')
+    }, [slug])
 
    return data
 }
