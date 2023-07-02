@@ -5,7 +5,7 @@ export const useAPI = (slug) => {
    const [data, setData] = useState([])
    const cosmic = createBucketClient({
     bucketSlug: 'dev-blog-prod',
-    readKey: REACT_APP_READ_KEY
+    readKey: process.env.REACT_APP_READ_KEY
    })
 
    useEffect(() => {
